@@ -22,3 +22,4 @@ ArtirmaEmelyati();
 8
 10
 vs...
+ggg
