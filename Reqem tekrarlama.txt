@@ -1,0 +1,24 @@
+let a=1;
+
+function ArtirmaEmelyati(){
+  
+  if(a<500){
+          a++;
+          if(a%2==0){
+            
+            console.log(a);
+          }
+          ArtirmaEmelyati()
+    
+  }else{
+          console.log("Is Bitdi")
+     }
+}
+
+ArtirmaEmelyati();
+2
+4
+6
+8
+10
+vs...
